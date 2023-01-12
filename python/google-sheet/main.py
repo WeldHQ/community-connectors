@@ -9,7 +9,7 @@ url = "https://sheets.googleapis.com/v4/spreadsheets/"
 
 #2: Authentication
 sheets = { "sheet1": { "id": "11Uhjl9xQEQk6l7ZFfhFzsvPs6sFgG65JovPM4DZ5nCg", "range": "TestNamedRange" } }
-api_key = "AIzaSyDfH7QqqvOUkUZq9rAiDKqblDNgNIaWazI"
+api_key = "INSERT_KEY"
 # Read more about Google Sheet ranges here: https://developers.google.com/sheets/api/samples/reading
 
 #3: HTTP call

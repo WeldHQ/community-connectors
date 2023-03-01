@@ -255,7 +255,7 @@ def handler(req):
 
      # URL 
 
-      current_page = 1
+    current_page = 1
 
     if(state.get("next_page")):
       current_page = state.get("next_page")

@@ -6,3 +6,5 @@ With the Custom Connector from Weld you can write an integration in 1 file. Conn
 We hope these connectors will be useful as is or as examples for new connectors.
 
 We can't wait to see what you'll build!
+
+Read more on [how to set up a self-hosted custom connector](https://docs.weld.app/integrations/applications/custom-connector)

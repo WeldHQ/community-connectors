@@ -1,0 +1,7 @@
+# Function dependencies, for example:
+# package>=version
+pytz
+functions_framework
+requests
+oauthlib
+requests-oauthlib

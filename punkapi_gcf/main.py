@@ -121,7 +121,6 @@ def handler(req):
     next_page = current_page + 1
     has_more = len(rows) >= 79
 
-
     return {
         "insert": rows,
         "state": {
